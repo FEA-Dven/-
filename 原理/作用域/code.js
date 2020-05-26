@@ -8,4 +8,4 @@ function foo() {
     bar();
 }
 let test = 1;
-bar();
+bar(); // 1
